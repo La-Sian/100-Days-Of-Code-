@@ -9,5 +9,6 @@ DAY 2:
 Today I went over computational thinking again, learning more terminology to solidify everything I’ve learnt so far, and had exercises where we could practise this. For example, I made a scratch game but had to plan every step beforehand to produce it, so I would have an algorithm to refer to in future. 
 We also went over github to refresh what we previously learned such as making changes to files, as well as pulling and pushing from the local to remote repository and vice versa.
 
- 
+ Day 3 I jumped into Javascript fundamentals such as types, variables and functions. We practised using the console trial and error to see what did and didn’t work. I also incorporated using github and the terminal and coned files to edit some Javascript code. I did find JS functions not very clear so I will continue to work on that after todays bootcamp session.
+
  
