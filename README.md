@@ -14,4 +14,18 @@ We also went over github to refresh what we previously learned such as making ch
 
  Day 4:
  Dived further into Javascript covering objects, loops, arrays completing tasks that let me practise the syntaxes. Objects were understandable in comparison to loops such as for and while loops, thus I have spent more time revising these by looking at  YT videos and other online resources. I also signed up to the 30 javascript challenge to improve my knowledge. 
+ 
+ DAY 5
+
+I was Introduced to the first hackathon to make a rock, paper and scissors game. This was a great way to bring together what I had been studying over the past week. 
+
+DAY 6
+
+Continued going over hackathon breaking down the challenges. I also researched more today on areas that I was more unfamiliar with such as functions and calling them as I am still learning the basics. I also learnt a new topic on a separate self paced course on Udemy such as arrow and anonymous functions 
+Functions.
+
+DAY 7
+
+Went through what I have been learning over the last few days, variables, objects, functions, arrays and tried applying the Freyman technique to test my knowledge. I also applied to a course in javascript and if accepted will spend an extra 2 hours a week looking at javascript. 
+
 
