@@ -29,3 +29,11 @@ DAY 7
 Went through what I have been learning over the last few days, variables, objects, functions, arrays and tried applying the Freyman technique to test my knowledge. I also applied to a course in javascript and if accepted will spend an extra 2 hours a week looking at javascript. 
 
 
+Day 8 
+My day consisted of learning a new topic, The DOM and how it can manipulate html in web pages. I looked at accessing, selecting, changing(appending and removing) html web pages with the DOM using Javascript .
+
+
+Day 9
+
+Looked at using AI efficiently to help perform tasks more efficiently using chatgpt and github co-pilot and put this into practice making a more improved version of the game rock, paper, scissors. Also, I looked over more of the DOM, in terms of event listeners making web pages more dynamic. 
+
