@@ -37,3 +37,9 @@ Day 9
 
 Looked at using AI efficiently to help perform tasks more efficiently using chatgpt and github co-pilot and put this into practice making a more improved version of the game rock, paper, scissors. Also, I looked over more of the DOM, in terms of event listeners making web pages more dynamic. 
 
+Day 10
+Today I looked at synchronous and asynchronous code and learning the difference between the two. I also learnt about the basics of fetch and API’s which I found it slightly challenging so I will do more research and see example to get a better understanding.
+
+  Day 11
+Today I went through more tasks on codewars to strengthen my debugging skills, applying what I have been learning over the past week and a half. 
+
