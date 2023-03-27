@@ -43,3 +43,14 @@ Today I looked at synchronous and asynchronous code and learning the difference 
   Day 11
 Today I went through more tasks on codewars to strengthen my debugging skills, applying what I have been learning over the past week and a half. 
 
+DAY 12
+I carried on with my 30 day javascript challenge and specifically looked over at functions and for loops as I  found I needed more revision to better my understanding as on codewars my skills and knowledge were tested.
+
+
+DAY 13
+
+I completed 3 tasks that were focusing on what I covered in week 2 such as fetch, APIs, query selector and for loops as well as arrays. I did find these tasks challenging but  I had tools such as chatgpt to help break down the problems. 
+
+
+
+
