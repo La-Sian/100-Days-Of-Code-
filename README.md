@@ -54,5 +54,19 @@ DAY 14
 I completed 3 tasks that were focusing on what I covered in week 2 such as fetch, APIs, query selector and for loops as well as arrays. I did find these tasks challenging but  I had tools such as chatgpt to help break down the problems. 
 
 
+Day 15
+
+Today was a look into frontend foundations. I was working on flexbox learning more on space distribution between items in an interface and powerful alignment capabilities.
+
+
+Day 16
+
+Today had a focus on front end foundations where I looked and researched about UX and UI in terms of what they are, importance and differences. This included basics such as visual hierarchy, scale, balance, and contrast. CSS was another topic covered leaning about specification 
+
+
+Day 17
+
+Continuing with the front end foundations, I completed a research task on forms finding out best practice guidelines for form designs and particularly looked at buttons, checkboxes, selectors, radio buttons, text input,file input and switch. 
+
 
 
