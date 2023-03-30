@@ -68,5 +68,9 @@ Day 17
 
 Continuing with the front end foundations, I completed a research task on forms finding out best practice guidelines for form designs and particularly looked at buttons, checkboxes, selectors, radio buttons, text input,file input and switch. 
 
+Day 18
+
+Today I tried cloning a version of a webpage from memory which did not get me very far. I then worked on a task to mimic an actual webapage such as Teslas and see if I could make my own edits and changes and to just play around with to see what and wouldn't work. 
+
 
 
