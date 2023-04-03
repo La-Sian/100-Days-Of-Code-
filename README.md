@@ -81,4 +81,6 @@ worked on another task that is creating and designing a website about myself. Wo
 Day 21
 I continued to work on week recap task were I started putting the plan to action starting on the HTML and CSS where I have completed the nav bar. 
 
+DAY 22
+Today was an introduction to software testing and looked at node.js Also completed a series of tasks that put this into practice, for example it covered esm, different commands of npm. 
 
