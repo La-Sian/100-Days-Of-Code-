@@ -72,5 +72,13 @@ Day 18
 
 Today I tried cloning a version of a webpage from memory which did not get me very far. I then worked on a task to mimic an actual webapage such as Teslas and see if I could make my own edits and changes and to just play around with to see what and wouldn't work. 
 
+Day 19
+Hackathon friday. Created a landing page based on a parrot training program. Looked at websites to get an idea of the feel and look. Also researched different portfolios that would help create the webpage in terms of what users would want to achieve from this. This task was done using HTML and JavaScript.
+
+Day 20 
+worked on another task that is creating and designing a website about myself. Worked on planning in terms of what it was going to look like, the content being displayed such as homepage, projects, contact.
+
+Day 21
+I continued to work on week recap task were I started putting the plan to action starting on the HTML and CSS where I have completed the nav bar. 
 
 
