@@ -87,3 +87,6 @@ Today was an introduction to software testing and looked at node.js Also complet
 Day 23
 Today I was looking at more of an introduction to testing at a unit test level and focused on learning to approach testing in 3 steps: arrange, act, assert in other words what to prepare to call, calling function/thing your testing and to check expected to have happened
 
+Day 24 
+
+Started the day with codewars and worked on 4 problems and managed to complete. Later moved onto Testing but instead of isolated testing, expanded further onto end to end testing using playwright. 
