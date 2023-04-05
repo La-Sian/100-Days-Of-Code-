@@ -84,3 +84,6 @@ I continued to work on week recap task were I started putting the plan to action
 DAY 22
 Today was an introduction to software testing and looked at node.js Also completed a series of tasks that put this into practice, for example it covered esm, different commands of npm. 
 
+Day 23
+Today I was looking at more of an introduction to testing at a unit test level and focused on learning to approach testing in 3 steps: arrange, act, assert in other words what to prepare to call, calling function/thing your testing and to check expected to have happened
+
