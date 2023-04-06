@@ -90,3 +90,7 @@ Today I was looking at more of an introduction to testing at a unit test level a
 Day 24 
 
 Started the day with codewars and worked on 4 problems and managed to complete. Later moved onto Testing but instead of isolated testing, expanded further onto end to end testing using playwright. 
+
+DAY 25
+
+Today started off with codewars and was able to complete 4 problems on level 8. The rest of the day wass spent on a hackathon based on end 2 end testing, where I tested a simple userface that inputs text, a date and slecects a button to list what was inputted. bc14_w4_hackathon_testathon-room-7-la-sian-danielle-mo  
