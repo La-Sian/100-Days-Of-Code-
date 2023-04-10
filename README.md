@@ -93,4 +93,16 @@ Started the day with codewars and worked on 4 problems and managed to complete. 
 
 DAY 25
 
-Today started off with codewars and was able to complete 4 problems on level 8. The rest of the day wass spent on a hackathon based on end 2 end testing, where I tested a simple userface that inputs text, a date and slecects a button to list what was inputted. bc14_w4_hackathon_testathon-room-7-la-sian-danielle-mo  
+Today started off with codewars and was able to complete 4 problems on level 8. The rest of the day wass spent on a hackathon based on end 2 end testing, where I tested a simple userface that inputs text, a date and slecects a button to list what was inputted. bc14_w4_hackathon_testathon-room-7-la-sian-danielle-mo 
+
+DAY 26
+
+Todays objective was to create my own kata on code wars that works by testing it using jest. I was able to create a kata, that conceptionally worked but did not yet get it to pass all tests.
+
+DAY 27 & 28
+
+Worked on more testing, focusing on end-to-end testing with playwright. I found this challenging as i came across multiple errors. 
+
+DAY 29
+
+Today consisited researching about React. I have no previous knowledge thus had to look up a large amounf of resources and found videos to be more useful. 
