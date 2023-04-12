@@ -110,3 +110,9 @@ Today consisited researching about React. I have no previous knowledge thus had 
 DAY 30
 
 In more detail, covered more basic areas of React such as Virtual DOM, JSX and Props. I have a better understanding I why React is so popular but struggles with passing props. 
+
+
+DAY 31
+
+Dug slightly further into react looking at userState hook and lifting state. I found it particularly challenging, when having to import child states to the parent/root component. 
+
