@@ -106,3 +106,7 @@ Worked on more testing, focusing on end-to-end testing with playwright. I found 
 DAY 29
 
 Today consisited researching about React. I have no previous knowledge thus had to look up a large amounf of resources and found videos to be more useful. 
+
+DAY 30
+
+In more detail, covered more basic areas of React such as Virtual DOM, JSX and Props. I have a better understanding I why React is so popular but struggles with passing props. 
