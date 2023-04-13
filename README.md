@@ -116,3 +116,9 @@ DAY 31
 
 Dug slightly further into react looking at userState hook and lifting state. I found it particularly challenging, when having to import child states to the parent/root component. 
 
+DAY 32
+
+Today was looking at array methods- .map and .filter, as well as mutability and immutability and also keys and lists. 
+
+
+
