@@ -120,5 +120,7 @@ DAY 32
 
 Today was looking at array methods- .map and .filter, as well as mutability and immutability and also keys and lists. 
 
+DAY 33
 
+Today was hackathon Friday. The goal was to make a to do list with react. We managed to create an input box and add to the list but never managed to have a working delete button.
 
