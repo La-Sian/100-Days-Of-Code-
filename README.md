@@ -124,3 +124,7 @@ DAY 33
 
 Today was hackathon Friday. The goal was to make a to do list with react. We managed to create an input box and add to the list but never managed to have a working delete button.
 
+DAY 34
+
+Started on the recao tasks. Covering concepts I learnt of this past week. Exremely challenging.
+
