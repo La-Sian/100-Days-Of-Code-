@@ -132,4 +132,7 @@ DAY 35
 
 Continued with the weekend recap task covering react making a blog website with a comment component, Comment list component. I found this task very difficult, not just the challenge but also with some of the terminology itself. 
 
+DAY 36
+
+Topic of the day was useEffect hooks. Went over briefly what it is and its use within React and used it as an example by fetching an API.
 
