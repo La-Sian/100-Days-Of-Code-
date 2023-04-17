@@ -128,3 +128,8 @@ DAY 34
 
 Started on the recao tasks. Covering concepts I learnt of this past week. Exremely challenging.
 
+DAY 35
+
+Continued with the weekend recap task covering react making a blog website with a comment component, Comment list component. I found this task very difficult, not just the challenge but also with some of the terminology itself. 
+
+
