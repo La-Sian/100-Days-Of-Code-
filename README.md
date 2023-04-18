@@ -136,3 +136,7 @@ DAY 36
 
 Topic of the day was useEffect hooks. Went over briefly what it is and its use within React and used it as an example by fetching an API.
 
+DAY 37
+
+I looked at switch statements and how to incorporate them within a new hook, useReducer hook and the basic conceptual flow of how to use them as another hook within React tools.
+
