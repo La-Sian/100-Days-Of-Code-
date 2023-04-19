@@ -140,3 +140,6 @@ DAY 37
 
 I looked at switch statements and how to incorporate them within a new hook, useReducer hook and the basic conceptual flow of how to use them as another hook within React tools.
 
+DAY 38
+
+I went over git commands that covered git branching in regards to multiple people working on one project. I also had an introduction to learning about React testing library, how it works ects so I have a basic understanding of what/why its used. 
