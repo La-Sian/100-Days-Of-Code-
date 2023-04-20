@@ -143,3 +143,7 @@ I looked at switch statements and how to incorporate them within a new hook, use
 DAY 38
 
 I went over git commands that covered git branching in regards to multiple people working on one project. I also had an introduction to learning about React testing library, how it works ects so I have a basic understanding of what/why its used. 
+
+DAY 39
+
+Today I spent about an hour of my morning on codewars to help improve my computational thinking. Listened to a guest speaker about working in teams and finally continued working on react testing library.
