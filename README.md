@@ -147,3 +147,20 @@ I went over git commands that covered git branching in regards to multiple peopl
 DAY 39
 
 Today I spent about an hour of my morning on codewars to help improve my computational thinking. Listened to a guest speaker about working in teams and finally continued working on react testing library.
+
+DAY 40
+
+Today, was another Hackathon, where I attempted in a group to make an app in react. We managed to create and achieve our mpv but did not manage to have the time to add in all the CSS features we would have liked. It was a quote generating app.
+
+DAY 41
+
+I looked over useState to refresh what I had learnt as I hadnt looked over it within the last week. I jumped on a zoom call with other bootcampers to revise this further.
+
+DAY 42
+
+Today I joined another study session with some of my fellow bootcampers and we looked over the topics, useEffect and useReducer hooks. I also carried on with the React testing workshop to help familiarise myself with testing.
+
+
+DAY 43
+
+Today I started working on a project, that is based on making an frontended app that resolves some of the issues bootcampers face. We were able to find a problem and think of a solution and visualise a mvp model.
