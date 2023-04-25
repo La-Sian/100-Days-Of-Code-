@@ -164,3 +164,7 @@ Today I joined another study session with some of my fellow bootcampers and we l
 DAY 43
 
 Today I started working on a project, that is based on making an frontended app that resolves some of the issues bootcampers face. We were able to find a problem and think of a solution and visualise a mvp model.
+
+DAY 44
+
+Continued with our project week, where we were able to finish our wireframe template  of how we want our app to look like. Continued working on user personas and journeys. We also managed to create our main plan to refer to completing next goals. 
