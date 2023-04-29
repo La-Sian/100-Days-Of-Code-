@@ -168,3 +168,23 @@ Today I started working on a project, that is based on making an frontended app 
 DAY 44
 
 Continued with our project week, where we were able to finish our wireframe template  of how we want our app to look like. Continued working on user personas and journeys. We also managed to create our main plan to refer to completing next goals. 
+
+DAY 45
+
+Another day working on our Project. Had to scope our MVP back as one functionality wasnt working and didnt want to spend more time on it as we had to move on to keep to the time limit.
+
+DAY 46
+
+Today we added a key feature using a new concept, React Router that enabled us to be able to switch pages. As a result, we were able to start added more CSS features. 
+
+DAY 47
+
+Today we completed our MVP, adding our final feature of a ranking system and setting local storage to save content whent the page renders.
+
+Day 48
+
+Today we spent time practising our presentation, after making a script and finally presented our app infront of a panel of judges from the industry.
+
+DAY 49
+
+Today I looked more into React Router as it was really useful to use in my project week app, thus wanted to research into it further to have a better understanding of how it works and what else it can do. 
