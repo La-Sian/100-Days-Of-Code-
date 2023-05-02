@@ -188,3 +188,11 @@ Today we spent time practising our presentation, after making a script and final
 DAY 49
 
 Today I looked more into React Router as it was really useful to use in my project week app, thus wanted to research into it further to have a better understanding of how it works and what else it can do. 
+
+DAY 50
+
+Today,  worked on a bit of codewars as I have not done any all week long, thus wanted to get back into it. I also noticed I struggeled remembering conditionals, and thereefore went over some basics.
+
+DAY 51
+
+I spent this day working on more codewars as I struggled with a few the day before. I also went over more javascript basics using codeacademy 
