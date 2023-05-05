@@ -195,4 +195,16 @@ Today,  worked on a bit of codewars as I have not done any all week long, thus w
 
 DAY 51
 
-I spent this day working on more codewars as I struggled with a few the day before. I also went over more javascript basics using codeacademy 
+I spent this day working on more codewars as I struggled with a few the day before. I also went over more javascript basics using codeacademy.
+
+DAY 52
+
+Today was started off with codewars working on a couple of challenges. I also started on working on Javascript basics in regards to functions. I also did some research on some tech companies.
+
+DAY 53
+
+Today I worked on some more CSS looking at flexbox learning about justify-content, align-item and flex-direction as well as order. 
+
+DAY 54
+
+Today was hackathon Friday, were the breif was about
