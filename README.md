@@ -208,3 +208,8 @@ Today I worked on some more CSS looking at flexbox learning about justify-conten
 DAY 54
 
 Today was hackathon Friday, were the breif was about
+
+DAY 55
+
+Today consisted spending some of morning completing some codewar challenges. I also looked at node.js in more detail, such what it is, how to stringyfy javascript and how to parse json.
+
