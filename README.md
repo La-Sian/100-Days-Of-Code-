@@ -213,3 +213,7 @@ DAY 55
 
 Today consisted spending some of morning completing some codewar challenges. I also looked at node.js in more detail, such what it is, how to stringyfy javascript and how to parse json.
 
+DAY 56
+
+today was looking at REST API's and CROUD routes. It was very difficult to grasp to begin with as there were many topics to cover as well as understand them conceptually in order to write the syntax and execute. More learning on this will be needed. 
+
