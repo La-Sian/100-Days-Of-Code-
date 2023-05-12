@@ -207,7 +207,7 @@ Today I worked on some more CSS looking at flexbox learning about justify-conten
 
 DAY 54
 
-Today was hackathon Friday, were the breif was about
+Today was hackathon Friday, were the breif was about to make a frontended app that replicates a real life app.
 
 DAY 55
 
@@ -216,4 +216,10 @@ Today consisted spending some of morning completing some codewar challenges. I a
 DAY 56
 
 today was looking at REST API's and CROUD routes. It was very difficult to grasp to begin with as there were many topics to cover as well as understand them conceptually in order to write the syntax and execute. More learning on this will be needed. 
+
+DAY 57
+Today i delved deeper into express, exercising middleware, its uses/benefits and was able to also use custom as well as 3rd party middleware methods.
+
+DAY 58
+Another hackathon Friday. We created a restful api, incorporating what i have learnt this past week. http methods, get, post, methods.
 
