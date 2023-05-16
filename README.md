@@ -223,3 +223,7 @@ Today i delved deeper into express, exercising middleware, its uses/benefits and
 DAY 58
 Another hackathon Friday. We created a restful api, incorporating what i have learnt this past week. http methods, get, post, methods.
 
+DAY 59
+
+Today was focusing on SQL joining queries, as I found them particularly challenging yesterday, failing to see the relation when the columns are not named the same. 
+
