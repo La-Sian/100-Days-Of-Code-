@@ -227,3 +227,7 @@ DAY 59
 
 Today was focusing on SQL joining queries, as I found them particularly challenging yesterday, failing to see the relation when the columns are not named the same. 
 
+DAY 60
+
+Today, the goal was to link what ive learnt about sql nad postgres databases and how to use it to connect to node.js. As a result, I made relational database on the cloud and the connected it using node using pg packages.
+
