@@ -231,3 +231,7 @@ DAY 60
 
 Today, the goal was to link what ive learnt about sql nad postgres databases and how to use it to connect to node.js. As a result, I made relational database on the cloud and the connected it using node using pg packages.
 
+DAY 61&62
+
+After learning no sql with postgres databases this week, we lookd at MVC to see how all the information is stored and organised together. I also had the opportunity to work with the company CloudBase where I was able to create a database and manipulate on their server which was great practical experience.
+
