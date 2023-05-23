@@ -241,3 +241,4 @@ Today I covered an new topic, authentification where we looked at cookie based a
 
 DAY 64
 
+We put into practice authentification and authorisation using a third party library supabase to practice. we created a table, populated it and used react as our frontend, making buttons that carry the functionality. 
