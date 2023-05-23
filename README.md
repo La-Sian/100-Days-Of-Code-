@@ -235,3 +235,9 @@ DAY 61&62
 
 After learning no sql with postgres databases this week, we lookd at MVC to see how all the information is stored and organised together. I also had the opportunity to work with the company CloudBase where I was able to create a database and manipulate on their server which was great practical experience.
 
+DAY 63
+
+Today I covered an new topic, authentification where we looked at cookie based authentification and token based authentification. It was key for me to know what is meant by authentification which I have summarised to proving who/what you are where as authorisation is permitting what you can do.
+
+DAY 64
+
