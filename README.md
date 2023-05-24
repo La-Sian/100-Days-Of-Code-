@@ -242,3 +242,7 @@ Today I covered an new topic, authentification where we looked at cookie based a
 DAY 64
 
 We put into practice authentification and authorisation using a third party library supabase to practice. we created a table, populated it and used react as our frontend, making buttons that carry the functionality. 
+
+DAY 65
+
+Today's goal was to have an introduction to typescript. What I have learnt from this is that it is similar to Javaascript, but with additional features such as generics and interfaces, ability to use strict types as well as it supports modern features such as arrow functions
