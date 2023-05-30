@@ -250,3 +250,7 @@ Today's goal was to have an introduction to typescript. What I have learnt from 
 DAY 66
 
 Today was Hackathon Friday, where the goal was to create a weather app not just using javascript but also TypeScript that I have been learning this past week. 
+
+DAY 67
+
+Today I had an introuduction to what I will be doing for the next 5 weeks, which will working on a full stack project, implementing what I have learnt the past 11 weeks. As a team, we wrote a manifesto and started comming up with ideas we could solve. 
