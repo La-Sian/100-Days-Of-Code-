@@ -246,3 +246,7 @@ We put into practice authentification and authorisation using a third party libr
 DAY 65
 
 Today's goal was to have an introduction to typescript. What I have learnt from this is that it is similar to Javaascript, but with additional features such as generics and interfaces, ability to use strict types as well as it supports modern features such as arrow functions
+
+DAY 66
+
+Today was Hackathon Friday, where the goal was to create a weather app not just using javascript but also TypeScript that I have been learning this past week. 
