@@ -253,4 +253,8 @@ Today was Hackathon Friday, where the goal was to create a weather app not just 
 
 DAY 67
 
-Today I had an introuduction to what I will be doing for the next 5 weeks, which will working on a full stack project, implementing what I have learnt the past 11 weeks. As a team, we wrote a manifesto and started comming up with ideas we could solve. 
+Today I had an introuduction to what I will be doing for the next 5 weeks, which will working on a full stack project, implementing what I have learnt the past 11 weeks. As a team, we wrote a manifesto and started comming up with ideas we could solve.
+
+DAY 68 & 69
+
+With the full stack project, we decided on a problem to solve, being the lack of diverse children apps available for children that suffer with mental health/struggle to communicate the emotions. The main mvp was also completed today with all the features we want to include and started working on the potential colour themes.
