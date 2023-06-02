@@ -258,3 +258,7 @@ Today I had an introuduction to what I will be doing for the next 5 weeks, which
 DAY 68 & 69
 
 With the full stack project, we decided on a problem to solve, being the lack of diverse children apps available for children that suffer with mental health/struggle to communicate the emotions. The main mvp was also completed today with all the features we want to include and started working on the potential colour themes.
+
+DAY 70
+
+Project progress: Today we sorted out our user profiles, being children round ks2 age 7-11 as it's aimed for kids, but also created a user persona for adults-parents/gardians. We also began honing down on potential features and created our low fidelity wireframes and also considered colour themes and font styles. 
