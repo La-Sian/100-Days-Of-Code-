@@ -262,3 +262,7 @@ With the full stack project, we decided on a problem to solve, being the lack of
 DAY 70
 
 Project progress: Today we sorted out our user profiles, being children round ks2 age 7-11 as it's aimed for kids, but also created a user persona for adults-parents/gardians. We also began honing down on potential features and created our low fidelity wireframes and also considered colour themes and font styles. 
+
+DAY 71&72
+
+Project progress: today and yesterday we created our high fi wire frames for a mobile app, which we finished today. Started working on a desktop version and decided on a teck stack to use. 
