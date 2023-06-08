@@ -266,3 +266,6 @@ Project progress: Today we sorted out our user profiles, being children round ks
 DAY 71&72
 
 Project progress: today and yesterday we created our high fi wire frames for a mobile app, which we finished today. Started working on a desktop version and decided on a teck stack to use. 
+
+DAY 73 & 74
+Project progress: after recieving feeback, we altered the wireframe to make it more accessible for more kids that also take into considerations of children that have dyslexia for example or autism that struggle with analogies as such.
