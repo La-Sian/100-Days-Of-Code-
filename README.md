@@ -269,3 +269,14 @@ Project progress: today and yesterday we created our high fi wire frames for a m
 
 DAY 73 & 74
 Project progress: after recieving feeback, we altered the wireframe to make it more accessible for more kids that also take into considerations of children that have dyslexia for example or autism that struggle with analogies as such.
+
+DAY 75
+Project Progress: We decided on final features of the app ,layout after recieving proffesional feedback, for example a more accessible font. We also decided on the main theme colours that can be used in the app as well as the default colour.
+
+
+DAY 76&78
+Project Progress:Project Progress:We made a  list of all the reusable components we thought we will need which included the logo, avatar, white container, button, themometer as well as a list to make up the pages we will need.
+
+DAY 79&80
+Project Progress:we managed to make all the reuasable components and even make a start on making the all the pages for the app in terms of css and are looking to add functionality later in the week.
+
