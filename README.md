@@ -280,3 +280,9 @@ Project Progress:Project Progress:We made a  list of all the reusable components
 DAY 79&80
 Project Progress:we managed to make all the reuasable components and even make a start on making the all the pages for the app in terms of css and are looking to add functionality later in the week.
 
+DAY 81&82
+Project progress: over these last two days, we have been working in 3 teams of twos, where we all had pages to make from our wireframe. We did struggle with one of the pages using tailwind tring to make emojis within a div stay within another div when changing screen sizes. After many attempts we were able to sort it 
+
+Day 83
+Project progress: Today we presented our sprint demo of what we have achieved this week. This included making each page layout with tailwind and we have managed to link all the pages togther. 
+
