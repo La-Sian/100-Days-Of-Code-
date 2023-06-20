@@ -286,3 +286,8 @@ Project progress: over these last two days, we have been working in 3 teams of t
 Day 83
 Project progress: Today we presented our sprint demo of what we have achieved this week. This included making each page layout with tailwind and we have managed to link all the pages togther. 
 
+DAY 84 & 85
+Project progress: These past two days we aimed at getting the majority of the frontend completed and want to incorporate some unit tests. We have also started on the backend, setting up the databases we need and used postgresql to do so as we have used it before. We have also decied on what we are using for backend deployment which is Render.
+
+DAY 86: 
+Project Progress: Today we have set up CRUD routes for our app that are all working and we aimed to get the frontend to link with the backend. We also added in some features such as quotes we want to randomly display across the app  on certain pages everytime the app is used.
