@@ -291,3 +291,6 @@ Project progress: These past two days we aimed at getting the majority of the fr
 
 DAY 86: 
 Project Progress: Today we have set up CRUD routes for our app that are all working and we aimed to get the frontend to link with the backend. We also added in some features such as quotes we want to randomly display across the app  on certain pages everytime the app is used.
+
+DAY 87 & 88
+Project progress:Today we were productive at splitting into three different teams. One pair worked on the authentication, another pair worked on testing and another pair worked on polishing up the css on the frontend. This worked well as we started it yesterday and with the same tasks just swapped teams today.
