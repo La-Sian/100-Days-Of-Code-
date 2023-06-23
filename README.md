@@ -294,3 +294,6 @@ Project Progress: Today we have set up CRUD routes for our app that are all work
 
 DAY 87 & 88
 Project progress:Today we were productive at splitting into three different teams. One pair worked on the authentication, another pair worked on testing and another pair worked on polishing up the css on the frontend. This worked well as we started it yesterday and with the same tasks just swapped teams today.
+
+DAY 89
+Project  progress: Today we split into 2 teams as there was 5 of us, with one team working on teh frontend functionaity bug as the other team trying to fix the authentication issues. I was working on the frontend issue which was trying to update a h2 element to update when a specific button is pressed. We managed to do so with some conditional rendering.
