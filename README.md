@@ -275,28 +275,41 @@ Project Progress: We decided on final features of the app ,layout after recievin
 
 
 DAY 76&78
+
 Project Progress:Project Progress:We made a  list of all the reusable components we thought we will need which included the logo, avatar, white container, button, themometer as well as a list to make up the pages we will need.
 
 DAY 79&80
+
 Project Progress:we managed to make all the reuasable components and even make a start on making the all the pages for the app in terms of css and are looking to add functionality later in the week.
 
 DAY 81&82
+
 Project progress: over these last two days, we have been working in 3 teams of twos, where we all had pages to make from our wireframe. We did struggle with one of the pages using tailwind tring to make emojis within a div stay within another div when changing screen sizes. After many attempts we were able to sort it 
 
 Day 83
+
 Project progress: Today we presented our sprint demo of what we have achieved this week. This included making each page layout with tailwind and we have managed to link all the pages togther. 
 
 DAY 84 & 85
+
 Project progress: These past two days we aimed at getting the majority of the frontend completed and want to incorporate some unit tests. We have also started on the backend, setting up the databases we need and used postgresql to do so as we have used it before. We have also decied on what we are using for backend deployment which is Render.
 
 DAY 86: 
+
 Project Progress: Today we have set up CRUD routes for our app that are all working and we aimed to get the frontend to link with the backend. We also added in some features such as quotes we want to randomly display across the app  on certain pages everytime the app is used.
 
 DAY 87 & 88
+
 Project progress:Today we were productive at splitting into three different teams. One pair worked on the authentication, another pair worked on testing and another pair worked on polishing up the css on the frontend. This worked well as we started it yesterday and with the same tasks just swapped teams today.
 
 DAY 89
+
 Project  progress: Today we split into 2 teams as there was 5 of us, with one team working on teh frontend functionaity bug as the other team trying to fix the authentication issues. I was working on the frontend issue which was trying to update a h2 element to update when a specific button is pressed. We managed to do so with some conditional rendering.
 
-DAY 90
+DAY 90 
+
 Project progress: Today we had two teams, one editng the frontend as we added new features such as more animated avatars and making sure the accessability was as best as we could get and we managed a score of 100 from lighthouse score. The other team was working on trying to pull data fron the database which was a challenge due to routing order issues which we were able to resolve.
+
+DAY 91
+
+Project progress: Today's focus was on testing as we have had many blockers not working with errors that were hard to understand. We theredore needed assistance from one of our coaches.
