@@ -297,3 +297,6 @@ Project progress:Today we were productive at splitting into three different team
 
 DAY 89
 Project  progress: Today we split into 2 teams as there was 5 of us, with one team working on teh frontend functionaity bug as the other team trying to fix the authentication issues. I was working on the frontend issue which was trying to update a h2 element to update when a specific button is pressed. We managed to do so with some conditional rendering.
+
+DAY 90
+Project progress: Today we had two teams, one editng the frontend as we added new features such as more animated avatars and making sure the accessability was as best as we could get and we managed a score of 100 from lighthouse score. The other team was working on trying to pull data fron the database which was a challenge due to routing order issues which we were able to resolve.
