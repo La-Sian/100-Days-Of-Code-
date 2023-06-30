@@ -310,12 +310,20 @@ DAY 91&92
 
 Project progress: Today we had two teams, one editng the frontend as we added new features such as more animated avatars and making sure the accessability was as best as we could get and we managed a score of 100 from lighthouse score. The other team was working on trying to pull data fron the database which was a challenge due to routing order issues which we were able to resolve.
 
-DAY 93
+DAY 93&94
 
-Project progress: Today's focus was on testing as we have had many blockers not working with errors that were hard to understand. We theredore needed assistance from one of our coaches, in which they referred us to docs that could help us.
+Project progress: The last couple days had a focus on testing as we have had many blockers not working with errors that were hard to understand. We theredore needed assistance from one of our coaches, in which they referred us to docs that could help us.
 
-DAY 94
+DAY 95&96
 
-Project progress: Today we made progress with testing, we got multiple unit tests to pass on the frontend and if we have time want to implement some end to end testing but we may have that as a stretch goal. We also managed to pull data from the backend to be able to make sure the functionality on the front end works.
+Project progress: We made progress with testing, we got multiple unit tests to pass on the frontend and if we have time want to implement some end to end testing but we may have that as a stretch goal. We also managed to pull data from the backend to be able to make sure the functionality on the front end works.
+
+DAY 97&98
+
+Project progress: the focus was to fix as as many bugs as possible, pariculary on the frontend as we wanted to make sure we had a good demo to present when it comes to demo day. As a result, and had a practice run also presenting our work to make sure it ran smoothly and under 10  minutes. One part of the team also tried implementing a email system but faced many challenges and if we dont figure it by this week, decided not to continue with it as it was originally a stretch goal. 
+
+DAY 99
+
+Project progress:  Today I focused on making sure the entire app was accessible as we only had 2 pages that were checked, and I did this using lighthouse and wave extension. I also added in more questions for our app, so that there is less repition for users. We had a merging conflict also that was a lot of code and decided as a group to go through it together to make sure we are all clear of what should and shouldnt be left. 
 
 
